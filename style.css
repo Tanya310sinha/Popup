@@ -1,0 +1,28 @@
+/* .first{
+    /* display: flex; */
+    /* border: 2px solid blue; *
+    
+} */
+body{
+    font-size: 3.5rem;
+
+   
+}
+/* .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding-top: 20%; *
+} */
+.modal_container{
+ display: flex; 
+ /* align-items: center; */
+ /* border: 2px solid red;   */
+ font-size: 2rem;
+ display: none;
+
+}
+.second i{
+    color: rgb(51, 51, 57);
+    /* text-align: center; */
+}
